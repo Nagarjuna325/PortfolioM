@@ -1,0 +1,27 @@
+Error 1:
+
+Before that we used npm install vite command for project setup instead of npm create react command.
+
+npm install -g vite
+
+npm install react-parallax-tilt
+
+
+Due to depedency issues with REACT-TITL dependency which is only compatible with React15 and React16 NOT with React18
+Solution:
+ Either to upgrad or downgrade the react version I am using 
+ So with React18 the new depedency will be React-parallax-tilt.
+
+What is SVG file SVG- Scalable Vector Graphics is photo with vector-based notation useful for high resoultuion , resolution independent , high or low 
+without losing quality.
+
+
+// tools used,
+1. Framer Motion 
+2. Reactthreejs
+3. Emailjs for email service so people can send us a email through the web site.
+4. threejs
+5. React18
+
+// upload git branch -M main
+
