@@ -26,7 +26,7 @@ const handleSend = async () => {
   setInput("");
   try {
     // const res = await fetch("http://127.0.0.1:8000/chat", {
-    const res = await fetch("https://portfoliomb-4is2.onrender.com", {
+    const res = await fetch("https://portfoliomb-4is2.onrender.com/chat", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ message: userInput }),
