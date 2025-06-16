@@ -116,7 +116,7 @@ const experiences = [
     company_name: "Hephium LLC",
     icon: hephium,
     iconBg: "#383E56",
-    date: "Jan 2024 - Present",
+    date: "May 2024 - Dec 2024",
     points: [
       "Developed and implemented 12+ APIs for real-time audit management and dynamic ticket template creation feature, using typescript and GraphQL in backend.",
       "Utilized Redux Toolkit to manage state, aligning structure with GraphQL for seamless data retrieval, reducing fetch time from 22.7ms to 12.2ms.",
